@@ -157,7 +157,7 @@ as a whole. Any changes must be approved by all active members.
 
 ## Signatures:
 
-![Matt Signature](https://drive.google.com/file/d/1UB7e_pFVUswrsattisTABqoBjsgU9-4k/view?usp=sharing)
+<img src="img/MPsignature.png" alt="Matt's Signature" width="600">
 
 ## Attribution
 

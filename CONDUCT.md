@@ -155,6 +155,10 @@ community.
 This code of conduct is subject to revision under special circumstances determined by the group 
 as a whole. Any changes must be approved by all active members.
 
+## Signatures:
+
+![Matt Signature](https://drive.google.com/file/d/1UB7e_pFVUswrsattisTABqoBjsgU9-4k/view?usp=sharing)
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],

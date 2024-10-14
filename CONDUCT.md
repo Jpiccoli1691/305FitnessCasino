@@ -60,8 +60,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+reported to the community leaders responsible for enforcement in the [team discord](https://discord.com/channels/1292834599029837827/1292834599713636404).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -112,6 +111,49 @@ individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
+
+## Project-specific Guidelines
+
+### 1. Decisions
+**Community Standard**: All major project decisions, including technical choices, design directions, and feature implementations, should be made through group consensus.  
+**Consequence**: Any member making unilateral decisions without consulting the team will be reminded to follow the collaborative process. Persistent behavior may result in loss of decision-making privileges for a period.
+
+### 2. Attendance
+**Community Standard**: Members are expected to attend all scheduled meetings. If a member cannot attend, they must notify the team in advance and review the meeting notes to stay updated.  
+**Consequence**: Failure to attend meetings without prior notice may result in limited participation in decision-making for the missed period. Chronic absences may lead to removal from key responsibilities.
+
+### 3. Assignments
+**Community Standard**: Tasks should be completed within the agreed-upon timeframe. If challenges arise, the member should communicate them early to seek assistance or reassignment.  
+**Consequence**: Missing deadlines without communication may result in reassignment of tasks or a reduced role in upcoming sprints.
+
+### 4. Participation
+**Community Standard**: Every member is encouraged to contribute to discussions, voice ideas, and engage with others’ suggestions constructively.  
+**Consequence**: Lack of participation or engagement without valid reasons may lead to reduced involvement in key decisions.
+
+### 5. Meeting Times and Locations
+**Community Standard**: Meetings will be held at times agreed upon by all members and may take place in person or online. Flexibility and punctuality are encouraged.  
+**Consequence**: Members consistently late to meetings will receive a warning, and repeated offenses may lead to reduced involvement in certain tasks.
+
+### 6. Agenda and Meeting Notes
+**Community Standard**: Each meeting will have a predetermined agenda and a designated member will take notes to be shared with the group afterward.  
+**Consequence**: Failure to follow the agenda or incomplete note-taking may result in reassignment of meeting facilitation responsibilities.
+
+### 7. Promptness
+**Community Standard**: Team members are expected to deliver their work on time and provide timely feedback during reviews.  
+**Consequence**: Chronic delays may result in fewer assigned tasks and limited involvement in upcoming sprints.
+
+### 8. Conversational Courtesies
+**Community Standard**: During discussions, respect for others' speaking time is essential. Avoid interruptions and listen attentively before responding.  
+**Consequence**: Disruptive behavior during discussions will lead to a private warning. Continued disruptions may result in limited speaking time or reduced decision-making involvement.
+
+### 9. Enforcement/Feedback
+**Community Standard**: Feedback on behavior or performance should be constructive and handled in a respectful, solution-oriented manner.  
+**Consequence**: Negative, hostile, or unconstructive feedback may result in mediation by team leaders, and consistent issues may lead to a reduced role within the group.
+
+## Revision of Code
+
+This code of conduct is subject to revision under special circumstances determined by the group 
+as a whole. Any changes must be approved by all active members.
 
 ## Attribution
 

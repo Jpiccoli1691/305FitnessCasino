@@ -155,6 +155,10 @@ community.
 This code of conduct is subject to revision under special circumstances determined by the group 
 as a whole. Any changes must be approved by all active members.
 
+## Team Member Signatures:
+
+<img src="img/MPsignature.png" alt="Matt's Signature" width="600">
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],

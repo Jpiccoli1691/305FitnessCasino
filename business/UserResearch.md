@@ -13,8 +13,6 @@
 
 ---
 
-# Observations
-
 ## Observation 2:
 [//]: (Jonathan)
 **Observation Statement:**  

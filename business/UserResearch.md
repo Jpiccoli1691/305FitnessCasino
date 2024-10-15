@@ -25,3 +25,16 @@
 - *Possible an expanded survey towards more people*
 
 ---
+
+## Observation 2:
+[//]: (Mani)
+**Observation Statement:**  
+*Observed that the majority of people are more interested by the 'casino' aspect than the fitness aspect of our app*
+
+**Supporting Data:**  
+- *over 40% of the users voted on a 'Dark and underground casino-like' theme for our UI design*
+- *77.3% of users reflected that they would be more likely to stick to their fitness goals if they earned tokens for in-app games for completing workouts*
+
+**Team Action (if any):**  
+- *Make sure the UI design stick to the casino theme, and make every fitness feature consequential to our casino game*
+

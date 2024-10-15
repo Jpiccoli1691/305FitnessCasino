@@ -15,7 +15,7 @@
 
 # Observations
 
-## Observation 1:
+## Observation 2:
 [//]: (Jonathan)
 **Observation Statement:**  
 *Observed the fact that our survey was directed towards possibly the wrong targeted group because half the data returned was " we do not use a fitness app." *

@@ -158,6 +158,7 @@ as a whole. Any changes must be approved by all active members.
 ## Team Member Signatures:
 
 <img src="img/MPsignature.png" alt="Matt's Signature" width="600">
+<img src="img/Peter.png" alt="Peter's Signature" width="600">
 
 ## Attribution
 

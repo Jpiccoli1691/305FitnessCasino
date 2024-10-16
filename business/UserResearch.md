@@ -26,7 +26,7 @@
 
 ---
 
-## Observation 2:
+## Observation 3:
 [//]: (Mani)
 **Observation Statement:**  
 *Observed that the majority of people are more interested by the 'casino' aspect than the fitness aspect of our app*
@@ -38,3 +38,15 @@
 **Team Action (if any):**  
 - *Make sure the UI design stick to the casino theme, and make every fitness feature consequential to our casino game*
 
+## Observation 4:
+[//]: (Matthew)
+**Observation Statement:**  
+*Observed that the majority of survey responses indicated that they do not use a fitness app, but the majority of users were recorded to work out a "few times a week" and were also interested in community fitness challenges.*
+
+**Supporting Data:**  
+- *Over 50% of survey responses indicated that they do not use a fitness app.*
+- *Over 50% of survey responses indicated that they worked out at least a "few times a week".*
+- *Over 50% of survey responses indicated that they would be at least "Interested" in community fitness challenges.*
+
+**Team Action (if any):**  
+- *Consider more fitness tracking integration, fitness leaderboards, and community fitness challenges as individual app ui pages and in future feature design.*

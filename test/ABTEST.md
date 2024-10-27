@@ -7,8 +7,8 @@
 
 ## Metrics:**
 - **Happiness:** Positive feedback on app aesthetics, Net Promoter Score (NPS).
-  **Engagement:** Average session length, page visit counts.
-  **Task Success:** Button action events, search exit rate.
+- **Engagement:** Average session length, page visit counts.
+- **Task Success:** Button action events, search exit rate.
 
 - **Hypothesis:**
 Suppose we apply another color scheme to the app. In that case, users will find it more visually appealing, leading to longer session times and increased interaction with app features, as other colors may improve readability and perceived usability.

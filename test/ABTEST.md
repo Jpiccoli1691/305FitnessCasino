@@ -1,12 +1,39 @@
 # A/B Testing 
 
 # Team Member: Jon
-- **A/B Test Name:**
-- **User Story Number:**
-- **Metrics:**
+## **A/B Test Name: "Color Scheme Impact on Engagement and Task Success"
+
+## User Story Number: **US4 (The Golden Path)
+
+## Metrics:**
+- **Happiness:** Positive feedback on app aesthetics, Net Promoter Score (NPS).
+  **Engagement:** Average session length, page visit counts.
+  **Task Success:** Button action events, search exit rate.
+
 - **Hypothesis:**
+Suppose we apply another color scheme to the app. In that case, users will find it more visually appealing, leading to longer session times and increased interaction with app features, as other colors may improve readability and perceived usability.
+- **Problem:**
+  Some users find the current color scheme unappealing or hard to navigate, which could potentially impact their willingness to interact with the app.
+- **Impact:** The current color scheme may deter users from staying engaged, resulting in reduced session lengths, lower engagement with app features, and overall diminished satisfaction.
+
+-
 - **Experiment:**
+- **Experiment Setup:**
+  Audience: 50% of the total user base will see the new color scheme, and the other 50% will continue with the existing scheme.
+  Tracking via Firebase Analytics:
+    Average Session Length (Engagement): Measure any changes in time spent per session between both groups.
+    Button Action Events (Task Success): Track button interaction rates for both groups to gauge user comfort with the UI.
+    Page Visit Counts (Engagement): Monitor whether users are exploring different pages more with the new color scheme.
+    Survey Results (Happiness): Post-experiment survey asking for user feedback on app design and color preference.
+    Rationale: Testing with the full user base lets us see how existing and new users respond to the color change. This provides a broad understanding of user preferences and their impact on engagement.
+
 - **Variations:**
+Variation A: Original color scheme (e.g., darker color palette).
+Design: The current color layout has all default elements.
+Variation B: New color scheme (e.g., lighter color palette with higher contrast).
+Design: Redesigned elements with lighter background tones, improved contrast, and easier readability.
+Mockups and diagrams for both color schemes will help illustrate each variation’s interface and assist in collecting user feedback.
+
 
 # Team Member: Mani
 - **A/B Test Name:**

@@ -16,8 +16,6 @@ Suppose we apply another color scheme to the app. In that case, users will find 
   Some users find the current color scheme unappealing or hard to navigate, which could potentially impact their willingness to interact with the app.
 - **Impact:** The current color scheme may deter users from staying engaged, resulting in reduced session lengths, lower engagement with app features, and overall diminished satisfaction.
 
-
-- **Experiment:**
 - **Experiment Setup:**
   Audience: 50% of the total user base will see the new color scheme, and the other 50% will continue with the existing scheme.
   Tracking via Firebase Analytics:

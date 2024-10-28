@@ -68,7 +68,7 @@ After running the test, analyze which variant leads to higher retention rates an
 # Team Member: Peter
 ## A/B Test Name: Strava Integration Placement for Improved User Adoption
 
-## User Story Number: **US5 (Fitness Integration Path)**
+## User Story Number: **US3 Backend Setup**
 
 ### **Metrics:**
 

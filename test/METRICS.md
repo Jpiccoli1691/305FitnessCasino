@@ -5,7 +5,9 @@
 ## **Metrics Bulleted List**
 
 ### Metric 1: **Happiness**
--
+- Account creation via firebase database
+- Net Promoter Score (NPS) recommendation survey on survey page
+- Blackjack game page visits via firebase database
 
 ### Metric 2: **Engagement**
 -

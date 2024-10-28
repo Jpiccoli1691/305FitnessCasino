@@ -5,14 +5,14 @@
 ## **Metrics Bulleted List**
 
 ### Metric 1: **Happiness**
-- Account creation via firebase database
-- Net Promoter Score (NPS) recommendation survey on survey page
-- Blackjack game page visits via firebase database
+- Account creation via Firebase database
+- Net Promoter Score (NPS) recommendation survey on the survey page
+- Blackjack game page visits via Firebase database
 
 ### Metric 2: **Engagement**
 - Account Page Visits via Firebase database
 - Average Session Length via Active users in the last 30 minutes on Analytics Dashboard
-- Rewards Page Visits via Firebase database
+- Rewards Page Visits via the Firebase database
 - Click Through Rate (CTR) via Firebase database
 
 ### Metric 3: **Adoption**
@@ -22,9 +22,12 @@
 ### Metric 4: **Retention**
 - Retention Rate via Monthly Active Users
 - Leaderboard Progress via Firebase Database
-- Weekly/Monthly Leaderboad and Community Challenges Page Visits vis Firebase Database
+- Weekly/Monthly Leaderboard and Community Challenges Page Visits vis Firebase Database
 - Churn Rate from Last Login via Firebase Database
   
 ### Metric 5: **Task Success**
--
+-  Search Exit Rate via Firebase Database
+-  Crash Rate via Firebase Database
+
+
   

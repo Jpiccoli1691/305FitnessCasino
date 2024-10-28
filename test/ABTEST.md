@@ -34,12 +34,46 @@ Mockups and diagrams for both color schemes will help illustrate each variationâ
 
 
 # Team Member: Mani
-- **A/B Test Name:**
-- **User Story Number:**
+- **A/B Test Name:** Impact of progress visuals on app's fitness tracking experience
+  
+- **User Story Number: US4 (The Golden Path)****
+  
 - **Metrics:**
+
+- **Happiness:** User satisfaction with the visual appeal and intuitiveness of the progress bars
+- **Engagement:** Average number of taps or interactions with the progress bar section per session, tracked through event logs.
+- **Adoption:** Percentage of users who choose to enable or switch the progress bar visuals
+- **Retention:** Difference in 7-day and 14-day retention rates between users exposed to the new progress visuals vs. the control group, using retention analytics.
+- **Task Success:** Successful completion of fitness tracking tasks (e.g., setting and updating goals) with the progress bar.
+  
 - **Hypothesis:**
+Enhancing the visuals of the progress bar in the fitness tracking feature will increase user engagement, as users will find the experience more motivating and visually appealing, leading to higher adoption and retention rates.
+  
 - **Experiment:**
+- Objective: Test if enhanced progress bar visuals improve engagement, adoption, and retention in the fitness tracking feature.
+
+##1. **Groups**
+   
+- Control Group: Standard (horizontal) progress bar design.
+- Test Group: Circular bar design.
+  
+##2. **Metrics (Tracked via Firebase Analytics)**
+
+- Engagement: Track interactions with the progress bar (progress_bar_interaction event).
+- Adoption: Monitor customizations (progress_bar_customization_enabled event).
+- Retention: Measure 7-day and 14-day retention via cohort data.
+- Task Success: Track goal completions (goal_set_complete event).
+  
+##3. **Method**
+  
+- Use Firebase Remote Config to randomly assign users to control or test groups.
+- Run for 2 weeks, analyze differences in engagement, adoption, and retention.
+- Expected Outcome: Test group shows higher engagement and retention due to improved visual appeal.
+  
 - **Variations:**
+- Variation A: A horizontal progress bar design
+- Variation B: A circular progress bar design
+  
 
 # Team Member: Matthew
 ## A/B Test Name: In-Game Store vs. Profit Tracker for User Retention

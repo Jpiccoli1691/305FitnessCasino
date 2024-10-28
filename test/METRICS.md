@@ -11,7 +11,8 @@
 -
 
 ### Metric 3: **Adoption**
--
+- Daily Active Users via Firebase Database
+- Registration Rate via Firebase Database
 
 ### Metric 4: **Retention**
 - Retention Rate via Monthly Active Users

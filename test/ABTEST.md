@@ -34,11 +34,11 @@ Mockups and diagrams for both color schemes will help illustrate each variationâ
 
 
 # Team Member: Mani
-- **A/B Test Name:** Impact of progress visuals on app's fitness tracking experience
+**A/B Test Name:** Impact of progress visuals on app's fitness tracking experience
   
-- **User Story Number: US4 (The Golden Path)****
+**User Story Number: US4 (The Golden Path)****
   
-- **Metrics:**
+**Metrics:**
 
 - **Happiness:** User satisfaction with the visual appeal and intuitiveness of the progress bars
 - **Engagement:** Average number of taps or interactions with the progress bar section per session, tracked through event logs.

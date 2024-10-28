@@ -10,10 +10,10 @@
 - Blackjack game page visits via firebase database
 
 ### Metric 2: **Engagement**
--Account Page Visits via Firebase database
--Average Session Length via Active users in the last 30 minutes on Analytics Dashboard
--Rewards Page Visits via Firebase database
--Click Through Rate (CTR) via Firebase database
+- Account Page Visits via Firebase database
+- Average Session Length via Active users in the last 30 minutes on Analytics Dashboard
+- Rewards Page Visits via Firebase database
+- Click Through Rate (CTR) via Firebase database
 
 ### Metric 3: **Adoption**
 - Daily Active Users via Firebase Database

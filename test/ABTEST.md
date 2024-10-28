@@ -46,10 +46,10 @@ Mockups and diagrams for both color schemes will help illustrate each variationâ
 - **Retention:** Difference in 7-day and 14-day retention rates between users exposed to the new progress visuals vs. the control group, using retention analytics.
 - **Task Success:** Successful completion of fitness tracking tasks (e.g., setting and updating goals) with the progress bar.
   
-- **Hypothesis:**
+**Hypothesis:**
 Enhancing the visuals of the progress bar in the fitness tracking feature will increase user engagement, as users will find the experience more motivating and visually appealing, leading to higher adoption and retention rates.
   
-- **Experiment:**
+**Experiment:**
 - Objective: Test if enhanced progress bar visuals improve engagement, adoption, and retention in the fitness tracking feature.
 
 ##1. **Groups**

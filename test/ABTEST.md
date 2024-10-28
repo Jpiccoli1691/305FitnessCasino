@@ -70,7 +70,7 @@ Enhancing the visuals of the progress bar in the fitness tracking feature will i
 - Run for 2 weeks, analyze differences in engagement, adoption, and retention.
 - Expected Outcome: Test group shows higher engagement and retention due to improved visual appeal.
   
-- **Variations:**
+**Variations:**
 - Variation A: A horizontal progress bar design
 - Variation B: A circular progress bar design
   

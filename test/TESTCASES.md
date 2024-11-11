@@ -1,5 +1,5 @@
 # Jon
-[US5: Ad Revenue]( rehttps://docs.google.com/presentation/d/1nlhAFAQ_Buz0-QiTP0HqIa-4ykVaEqbEpE53O8IKoSI/edit?usp=sharing)
+[US5: Ad Revenue](https://docs.google.com/presentation/d/1nlhAFAQ_Buz0-QiTP0HqIa-4ykVaEqbEpE53O8IKoSI/edit?usp=sharing)
 # Mani
 
 # Matt

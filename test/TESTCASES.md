@@ -8,3 +8,4 @@
 [US4: Golden Path](https://docs.google.com/presentation/d/1YMqNzbZjK2xCc42IsyfhzsdFUkfnh8KZkCtrZknq5NY/edit?usp=sharing)
 
 # Peter
+[US1+2: Account Creation + User Login](https://docs.google.com/presentation/d/1jOmYXhLRkTy7-imJurlxOjyEDN7-q17nVT84S0aURhY/edit?usp=sharing)

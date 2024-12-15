@@ -1,33 +1,58 @@
-## **HEART Framework GOOGLE SLIDE:**
+## **HEART Framework Google Slide:**
 
-[GOOGLE SLIDE](https://docs.google.com/presentation/d/16w8DEZ-3e3qy0Nrw4grn8-tGn9Tece7CmrrVDgjw2YM/edit#slide=id.g30e22f2fd56_0_0)
+[HEART FRAMEWORK](https://docs.google.com/presentation/d/16w8DEZ-3e3qy0Nrw4grn8-tGn9Tece7CmrrVDgjw2YM/edit#slide=id.g30e22f2fd56_0_0)
 
-## **Metrics Bulleted List**
+# Metrics
 
-### Metric 1: **Happiness**
-- Account creation via Firebase database
-- Net Promoter Score (NPS) recommendation survey on the survey page
-- Blackjack game page visits via Firebase database
+## HEART Framework Implementation
 
-### Metric 2: **Engagement**
-- Account Page Visits via Firebase database
-- Average Session Length via Active users in the last 30 minutes on Analytics Dashboard
-- Rewards Page Visits via the Firebase database
-- Click Through Rate (CTR) via Firebase database
+### Happiness
+* Account creation tracking via Firebase database
+* Net Promoter Score (NPS) measured through survey page
+* Game page visits monitored via Firebase database
+* User satisfaction metrics from feedback collection:
+    * Satisfaction rating
+    * Ease of use rating
+    * User comments and feedback
 
-### Metric 3: **Adoption**
-- Daily Active Users via Firebase Database
-- Registration Rate via Firebase Database
+### Engagement
+* Account Page Visits tracked via Firebase database
+* Average Session Length measured via Active users (30-minute window) on Analytics Dashboard
+* Rewards Page Visits monitored via Firebase database
+* Click Through Rate (CTR) tracked via Firebase database
+* Additional engagement metrics:
+    * Game session duration
+    * Token conversion frequency
+    * Total bets made
+    * Vault deposit activity
 
-### Metric 4: **Retention**
-- Retention Rate via Monthly Active Users
-- Leaderboard Progress via Firebase Database
-- Weekly/Monthly Leaderboard and Community Challenges Page Visits vis Firebase Database
-- Churn Rate from Last Login via Firebase Database
-  
-### Metric 5: **Task Success**
--  Search Exit Rate via Firebase Database
--  Crash Rate via Firebase Database
+### Adoption
+* Daily Active Users measured via Firebase Database
+* Registration Rate tracked via Firebase Database
+* Feature adoption tracking:
+    * Game participation rates
+    * Vault value statistics
+    * Challenge participation
+    * Profile update completion rate
+
+### Retention
+* Retention Rate calculated via Monthly Active Users
+* Leaderboard Progress monitored via Firebase Database
+* Weekly/Monthly Leaderboard and Community Challenges Page Visits tracked via Firebase Database
+* Churn Rate calculated from Last Login data via Firebase Database
+* Additional retention indicators:
+    * Step logging consistency
+    * Game participation frequency
+    * Token balance trends
+    * Betting trends
+
+### Task Success
+* Search Exit Rate monitored via Firebase Database
+* Crash Rate tracked via Firebase Database
+* Performance metrics:
+    * Challenge completion rates
+    * Betting success rates
+    * Reward collection rates
 
 
   

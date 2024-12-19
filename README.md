@@ -8,7 +8,7 @@ Modern fitness apps excel at tracking progress but often lack engaging user inte
 - **Gamified Fitness Tracking:** Earn in-game tokens based on Steps Taken.
 - **Casino Games:** Enjoy Blackjack, Plinko, and Mines games using earned tokens.
 - **Virtual Economy:** Use game earnings for ranks, titles, and profile pictures.
-- **Cokmmunity Leaderboards:** See the top 5 leaders in categories, such as Tokens, Bets, Bet Amount, Steps, and Vault Value.
+- **Community Leaderboards:** See the top 5 leaders in categories, such as Tokens, Bets, Bet Amount, Steps, and Vault Value.
 - **Community Challenges:** Check the Community Challenge page to complete tasks and earn more tokens as rewards.
 
 ## Contributing:

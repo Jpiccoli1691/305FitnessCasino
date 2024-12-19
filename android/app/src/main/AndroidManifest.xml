@@ -5,7 +5,7 @@
 
 
     <application
-        android:label="Step Bet"
+        android:label="Fitness305Casino"
         tools:replace="android:label"
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true">

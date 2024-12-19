@@ -6,6 +6,7 @@ import 'package:provider/provider.dart';
 import '/auth/base_auth_user_provider.dart';
 
 import '/index.dart';
+import '/main.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 
@@ -13,6 +14,8 @@ export 'package:go_router/go_router.dart';
 export 'serialization_util.dart';
 
 const kTransitionInfoKey = '__transition_info__';
+
+GlobalKey<NavigatorState> appNavigatorKey = GlobalKey<NavigatorState>();
 
 class AppStateNotifier extends ChangeNotifier {
   AppStateNotifier._();
@@ -67,28 +70,124 @@ class AppStateNotifier extends ChangeNotifier {
   }
 }
 
-GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
+GoRouter createRouter(AppStateNotifier appStateNotifier, [Widget? entryPage]) =>
+    GoRouter(
       initialLocation: '/',
       debugLogDiagnostics: true,
       refreshListenable: appStateNotifier,
-      errorBuilder: (context, state) =>
-          appStateNotifier.loggedIn ? const HomePageWidget() : const LoginPageWidget(),
+      navigatorKey: appNavigatorKey,
+      errorBuilder: (context, state) => appStateNotifier.loggedIn
+          ? entryPage ?? const NavBarPage()
+          : const LoginPageWidget(),
       routes: [
         FFRoute(
           name: '_initialize',
           path: '/',
-          builder: (context, _) =>
-              appStateNotifier.loggedIn ? const HomePageWidget() : const LoginPageWidget(),
+          builder: (context, _) => appStateNotifier.loggedIn
+              ? entryPage ?? const NavBarPage()
+              : const LoginPageWidget(),
         ),
         FFRoute(
-          name: 'HomePage',
-          path: '/homePage',
-          builder: (context, params) => const HomePageWidget(),
+          name: 'AccountPage',
+          path: '/accountPage',
+          builder: (context, params) => params.isEmpty
+              ? const NavBarPage(initialPage: 'AccountPage')
+              : NavBarPage(
+                  initialPage: 'AccountPage',
+                  page: AccountPageWidget(
+                    withdrawAmount: params.getParam(
+                      'withdrawAmount',
+                      ParamType.String,
+                    ),
+                  ),
+                ),
         ),
         FFRoute(
           name: 'LoginPage',
           path: '/loginPage',
           builder: (context, params) => const LoginPageWidget(),
+        ),
+        FFRoute(
+          name: 'HomePage',
+          path: '/homePage',
+          builder: (context, params) => params.isEmpty
+              ? const NavBarPage(initialPage: 'HomePage')
+              : const HomePageWidget(),
+        ),
+        FFRoute(
+          name: 'TermsOfServices',
+          path: '/termsOfServices',
+          builder: (context, params) => const TermsOfServicesWidget(),
+        ),
+        FFRoute(
+          name: 'CommunityLeaderBoard',
+          path: '/communityLeaderBoard',
+          builder: (context, params) => params.isEmpty
+              ? const NavBarPage(initialPage: 'CommunityLeaderBoard')
+              : const NavBarPage(
+                  initialPage: 'CommunityLeaderBoard',
+                  page: CommunityLeaderBoardWidget(),
+                ),
+        ),
+        FFRoute(
+          name: 'MyVault',
+          path: '/myVault',
+          builder: (context, params) => params.isEmpty
+              ? const NavBarPage(initialPage: 'MyVault')
+              : const NavBarPage(
+                  initialPage: 'MyVault',
+                  page: MyVaultWidget(),
+                ),
+        ),
+        FFRoute(
+          name: 'Blackjack',
+          path: '/blackjack',
+          builder: (context, params) => const BlackjackWidget(),
+        ),
+        FFRoute(
+          name: 'CommunityChallenges',
+          path: '/communityChallenges',
+          builder: (context, params) => params.isEmpty
+              ? const NavBarPage(initialPage: 'CommunityChallenges')
+              : const NavBarPage(
+                  initialPage: 'CommunityChallenges',
+                  page: CommunityChallengesWidget(),
+                ),
+        ),
+        FFRoute(
+          name: 'ManualSteps',
+          path: '/manualSteps',
+          builder: (context, params) => const ManualStepsWidget(),
+        ),
+        FFRoute(
+          name: 'ProfilePage',
+          path: '/profilePage',
+          builder: (context, params) => const ProfilePageWidget(),
+        ),
+        FFRoute(
+          name: 'Plinko',
+          path: '/plinko',
+          builder: (context, params) => const PlinkoWidget(),
+        ),
+        FFRoute(
+          name: 'UserFeedback',
+          path: '/userFeedback',
+          builder: (context, params) => const UserFeedbackWidget(),
+        ),
+        FFRoute(
+          name: 'Mines',
+          path: '/mines',
+          builder: (context, params) => const MinesWidget(),
+        ),
+        FFRoute(
+          name: 'WelcomePage',
+          path: '/welcomePage',
+          builder: (context, params) => const WelcomePageWidget(),
+        ),
+        FFRoute(
+          name: 'ProfileSetup',
+          path: '/profileSetup',
+          builder: (context, params) => const ProfileSetupWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );

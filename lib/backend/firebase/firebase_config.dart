@@ -10,7 +10,8 @@ Future initFirebase() async {
             projectId: "fitness305-casino-dkmau0",
             storageBucket: "fitness305-casino-dkmau0.appspot.com",
             messagingSenderId: "235925475737",
-            appId: "1:235925475737:web:185150c021af91caf70308"));
+            appId: "1:235925475737:web:185150c021af91caf70308",
+            measurementId: "G-Y54VSTYCVS"));
   } else {
     await Firebase.initializeApp();
   }

@@ -3,10 +3,6 @@ import 'login_page_widget.dart' show LoginPageWidget;
 import 'package:flutter/material.dart';
 
 class LoginPageModel extends FlutterFlowModel<LoginPageWidget> {
-  ///  Local state fields for this page.
-
-  int? clicks = 0;
-
   ///  State fields for stateful widgets in this page.
 
   // State field(s) for TabBar widget.

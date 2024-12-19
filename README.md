@@ -1,32 +1,21 @@
-# Fitness305Casino
+# 305FitnessCasino
 
-A new Flutter project.
+## Fitness Casino
 
-## Getting Started
+Modern fitness apps excel at tracking progress but often lack engaging user interaction or meaningful rewards for achievements. Imagine hiking over 10 miles or achieving new personal bests, only to receive a generic "Great Job!" message. Our project aims to transform fitness tracking by integrating fun, interactive elements inspired by casino gaming.
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+## Features:
+- **Gamified Fitness Tracking:** Earn in-game tokens based on Steps Taken.
+- **Casino Games:** Enjoy Blackjack, Plinko, and Mines games using earned tokens.
+- **Virtual Economy:** Use game earnings for ranks, titles, and profile pictures.
+- **Cokmmunity Leaderboards:** See the top 5 leaders in categories, such as Tokens, Bets, Bet Amount, Steps, and Vault Value.
+- **Community Challenges:** Check the Community Challenge page to complete tasks and earn more tokens as rewards.
 
-## Integration Tests
+## Contributing:
+Contributions are welcome! Fork the repository and submit pull requests for any enhancements or bug fixes.
 
-To test on a real iOS / Android device, first connect the device and run the following command from the root of the project:
+## Contact:
+For questions or support, contact us at (Jpiccoli@uri.edu).
 
-```bash
-flutter test integration_test/test.dart
-```
-
-To test on a web browser, first launch `chromedriver` as follows:
-```bash
-chromedriver --port=4444
-```
-
-Then from the root of the project, run the following command:
-```bash
-flutter drive \
-  --driver=test_driver/integration_test.dart \
-  --target=integration_test/test.dart \
-  -d chrome
-```
-
-Find more information about running Flutter integration tests [here](https://docs.flutter.dev/cookbook/testing/integration/introduction#5-run-the-integration-test).
-
-Refer to this guide for instructions on running the tests on [Firebase Test Lab](https://github.com/flutter/flutter/tree/main/packages/integration_test#firebase-test-lab).
+## Acknowledgements:
+Thank you to [list any contributors or libraries used].
